@@ -1,18 +1,18 @@
 ---
-title: Colophon
+title: About.
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: This blog is for documentation about my profrssional journey, running on jekyll, hosting on netlify and using teplate theme.
 comments: false
 ---
+I call myself <b>Data Enthusiast</b>, however I enjoy working with <b>computer technologies</b> in general.
+My projects help users to have the best possible experience interacting with their data.
+To do so I leverage available tools and create a meaningful <b>data foundation</b>.
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+This includes comprehensive analysis, improving data quality, data availability and integrity, as well as visualization and user-friendly interface development.
 
-If you have a question about him or else, just send a letter to him.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-**may u needs ✨**
+**My contacts**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}

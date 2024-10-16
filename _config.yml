@@ -15,26 +15,12 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Nadezhda Sitdikova # author name
   bio: >- # tell to the world
-    I call myself {' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            Data Enthusiast
-          </a>{' '}
-          , however I enjoy working with{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            computer technologies
-          </a>{' '}
-          in general.
-          My projects help users to have the best possible experience interacting with their data.
-          To do so I leverage available tools and create a meaningful{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            data foundation.
-          </a>{' '}
-          This includes comprehensive analysis, improving data quality, data availability and integrity, as well as visualization and user-friendly interface development.
+    
   username: username # general username
-  github: github_username # github username
+  github: nadezhda95 # github username
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  email: nadezhda.sitdikova.de@gmail.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
