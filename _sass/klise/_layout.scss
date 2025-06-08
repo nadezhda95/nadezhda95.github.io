@@ -13,6 +13,20 @@
 
 // Navigation
 .menu {
+
+.menu-link.icon-link {
+  display: inline-block;
+  width: 34px;
+  height: 34px;
+  vertical-align: middle;
+  background-image: url('/assets/img/telegram_dark_mode.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 0;
+  border: none;
+}
+
   user-select: none;
   -ms-user-select: none;
   -webkit-user-select: none;
