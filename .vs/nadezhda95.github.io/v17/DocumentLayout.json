@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\_includes\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\_layouts\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\_sass\\main.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_sass\\main.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\assets\\css\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\klise.gemspec||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -17,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\now.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:now.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\_includes\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\Gemfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -42,68 +54,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.scss",
+              "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\_sass\\main.scss",
+              "RelativeDocumentMoniker": "_sass\\main.scss",
+              "ToolTip": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\_sass\\main.scss",
+              "RelativeToolTip": "_sass\\main.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-06-08T12:28:55.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.html",
+              "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\_layouts\\home.html",
+              "RelativeDocumentMoniker": "_layouts\\home.html",
+              "ToolTip": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\_layouts\\home.html",
+              "RelativeToolTip": "_layouts\\home.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-08T12:28:48.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\assets\\js\\main.js",
+              "RelativeDocumentMoniker": "assets\\js\\main.js",
+              "ToolTip": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\assets\\js\\main.js",
+              "RelativeToolTip": "assets\\js\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-08T12:27:54.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\README.md",
-              "RelativeToolTip": "README.md",
+              "Title": "style.scss",
+              "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\assets\\css\\style.scss",
+              "RelativeDocumentMoniker": "assets\\css\\style.scss",
+              "ToolTip": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\assets\\css\\style.scss",
+              "RelativeToolTip": "assets\\css\\style.scss",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-08T10:26:46.747Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "thanks.md",
-              "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\thanks.md",
-              "RelativeDocumentMoniker": "thanks.md",
-              "ToolTip": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\thanks.md",
-              "RelativeToolTip": "thanks.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-08T10:26:57.939Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-06-08T12:27:39.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Gemfile",
-              "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\Gemfile",
-              "RelativeDocumentMoniker": "Gemfile",
-              "ToolTip": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\Gemfile",
-              "RelativeToolTip": "Gemfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-08T10:31:08.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "footer.html",
               "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\_includes\\footer.html",
               "RelativeDocumentMoniker": "_includes\\footer.html",
               "ToolTip": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\_includes\\footer.html",
               "RelativeToolTip": "_includes\\footer.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-06-08T10:28:36.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "now.json",
               "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\now.json",
               "RelativeDocumentMoniker": "now.json",
@@ -111,12 +131,11 @@
               "RelativeToolTip": "now.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-08T10:26:37.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T10:26:37.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "klise.gemspec",
               "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\klise.gemspec",
               "RelativeDocumentMoniker": "klise.gemspec",
@@ -124,12 +143,11 @@
               "RelativeToolTip": "klise.gemspec",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-08T10:26:22.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T10:26:22.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "about.md",
               "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\about.md",
               "RelativeDocumentMoniker": "about.md",
@@ -142,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "index.md",
               "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\index.md",
               "RelativeDocumentMoniker": "index.md",
@@ -152,6 +170,34 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-06-08T10:23:34.24Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gemfile",
+              "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\Gemfile",
+              "RelativeDocumentMoniker": "Gemfile",
+              "ToolTip": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\Gemfile",
+              "RelativeToolTip": "Gemfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-08T10:31:08.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "thanks.md",
+              "DocumentMoniker": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\thanks.md",
+              "RelativeDocumentMoniker": "thanks.md",
+              "ToolTip": "C:\\Users\\nadez\\source\\repos\\nadezhda95.github.io\\thanks.md",
+              "RelativeToolTip": "thanks.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-08T10:26:57.939Z"
             }
           ]
         }
